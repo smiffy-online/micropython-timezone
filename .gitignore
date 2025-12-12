@@ -1,0 +1,31 @@
+# Smiffy's .gitignore
+
+# Python
+__pycache__/
+.env
+env/
+.venv
+venv/
+
+# Editor stuff.
+*~
+*.swp
+*.bak
+*.old
+.vscode
+
+# Intermediate compile stuff.
+*.o
+
+# Archives
+*.zip
+*.tar
+*.bz2
+*.tgz
+*.gz
+
+tmp/
+# Windows and Mac shit.
+.zone-identifier
+.Trashes/
+.DS_Store/

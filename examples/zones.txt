@@ -1,0 +1,11 @@
+# Example timezone configuration
+# One timezone per line, comments start with #
+
+# Australian timezones
+Australia/Adelaide
+Australia/Sydney
+Australia/Melbourne
+Australia/Brisbane
+Australia/Perth
+
+# UTC is always included automatically
